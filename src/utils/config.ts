@@ -1,0 +1,1 @@
+export const BASE_URl="https://portal-cms-dev-v2.makunaiglobal.ai/graphql"
